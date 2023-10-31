@@ -1,7 +1,6 @@
 # CloudVandana_Coding-Assignment-Associate-Software-Engineer
 
 # Assignment Completed Successfully
-# Checkout my code 
 
 Name: SIDDHESH SHIVAJI BHOSALE      
 Email: bhosalesiddhesh2000@gmail.com      
